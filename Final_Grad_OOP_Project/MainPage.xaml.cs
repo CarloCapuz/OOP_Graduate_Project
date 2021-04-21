@@ -31,13 +31,16 @@ namespace Final_Grad_OOP_Project
         }
 
         // HAMBURGER BUTTON
-        private void HamburgerBtn_Click(object sender, RoutedEventArgs e)
+        private void HomeBtn_Click(object sender, RoutedEventArgs e)
         {
+            Uri u = new Uri("https://www.naeu.playblackdesert.com/en-US/Main/Index");
+            VideoView.Navigate(u);
         }
 
         // TEXT CHANGED ON SEARCH BOX
         private void SearchAutoSuggestBox_TextChanged(AutoSuggestBox sender, AutoSuggestBoxTextChangedEventArgs args)
         {
+            goBack();
         }
 
         // AUTO SUGGESTION SEARCH BOX
@@ -47,12 +50,11 @@ namespace Final_Grad_OOP_Project
         }
 
         // BACK BUTTON
-        private void HomeBtn_Click(object sender, RoutedEventArgs e)
+        private void BackBtn_Click(object sender, RoutedEventArgs e)
         {
             goBack();
         }
 
-        // FUNCTION TO GO HOME
         private void goBack()
         {
             Uri u = new Uri("https://www.naeu.playblackdesert.com/en-US/GameInfo/Feature");

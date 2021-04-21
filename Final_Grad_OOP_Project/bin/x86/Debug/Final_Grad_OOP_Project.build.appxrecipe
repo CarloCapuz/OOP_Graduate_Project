@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>7d85b6df-73a0-4577-8954-80ad0120aaf3</PackageIdentityName>
     <PackageIdentityPublisher>CN=cjmca</PackageIdentityPublisher>
-    <IntermediateOutputPath>E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\bin\x86\Debug\Final_Grad_OOP_Project.exe">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\bin\x86\Debug\Final_Grad_OOP_Project.exe">
       <PackagePath>entrypoint\Final_Grad_OOP_Project.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.10\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
@@ -34,115 +34,115 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.18362.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Archer\Archer.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Archer\Archer.png">
       <PackagePath>Assets\BDO Class Logos\Archer\Archer.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Berserker\Berserker.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Berserker\Berserker.png">
       <PackagePath>Assets\BDO Class Logos\Berserker\Berserker.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\DarkKnight\DarkKnight.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\DarkKnight\DarkKnight.png">
       <PackagePath>Assets\BDO Class Logos\DarkKnight\DarkKnight.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Guardian\Guardian.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Guardian\Guardian.png">
       <PackagePath>Assets\BDO Class Logos\Guardian\Guardian.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Hashashin\Hashashin.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Hashashin\Hashashin.png">
       <PackagePath>Assets\BDO Class Logos\Hashashin\Hashashin.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Kunoichi\Kunoichi.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Kunoichi\Kunoichi.png">
       <PackagePath>Assets\BDO Class Logos\Kunoichi\Kunoichi.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Lahn\Lahn.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Lahn\Lahn.png">
       <PackagePath>Assets\BDO Class Logos\Lahn\Lahn.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Maehwa\Maehwa.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Maehwa\Maehwa.png">
       <PackagePath>Assets\BDO Class Logos\Maehwa\Maehwa.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Musa\Musa.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Musa\Musa.png">
       <PackagePath>Assets\BDO Class Logos\Musa\Musa.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Mystic\Mystic.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Mystic\Mystic.png">
       <PackagePath>Assets\BDO Class Logos\Mystic\Mystic.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Ninja\Ninja.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Ninja\Ninja.png">
       <PackagePath>Assets\BDO Class Logos\Ninja\Ninja.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Nova\Nova.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Nova\Nova.png">
       <PackagePath>Assets\BDO Class Logos\Nova\Nova.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Ranger\Ranger.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Ranger\Ranger.png">
       <PackagePath>Assets\BDO Class Logos\Ranger\Ranger.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Shai\Shai.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Shai\Shai.png">
       <PackagePath>Assets\BDO Class Logos\Shai\Shai.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Sorceress\Sorceress.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Sorceress\Sorceress.png">
       <PackagePath>Assets\BDO Class Logos\Sorceress\Sorceress.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Striker\Striker.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Striker\Striker.png">
       <PackagePath>Assets\BDO Class Logos\Striker\Striker.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Tamer\Tamer.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Tamer\Tamer.png">
       <PackagePath>Assets\BDO Class Logos\Tamer\Tamer.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Valkyrie\Valkyrie.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Valkyrie\Valkyrie.png">
       <PackagePath>Assets\BDO Class Logos\Valkyrie\Valkyrie.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Warrior\Warrior.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Warrior\Warrior.png">
       <PackagePath>Assets\BDO Class Logos\Warrior\Warrior.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Witch\Witch.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Witch\Witch.png">
       <PackagePath>Assets\BDO Class Logos\Witch\Witch.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Wizard\Wizard.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Wizard\Wizard.png">
       <PackagePath>Assets\BDO Class Logos\Wizard\Wizard.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\bin\x86\Debug\Final_Grad_OOP_Project.xr.xml">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\bin\x86\Debug\Final_Grad_OOP_Project.xr.xml">
       <PackagePath>Final_Grad_OOP_Project.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\bin\x86\Debug\Core\Final_Grad_OOP_Project.exe">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\bin\x86\Debug\Core\Final_Grad_OOP_Project.exe">
       <PackagePath>Final_Grad_OOP_Project.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

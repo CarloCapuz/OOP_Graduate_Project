@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>7d85b6df-73a0-4577-8954-80ad0120aaf3</PackageIdentityName>
     <PackageIdentityPublisher>CN=cjmca</PackageIdentityPublisher>
-    <IntermediateOutputPath>E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\bin\x86\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>D93C4D3D537F9E1EB035AA2D31D36C8E3B6E789E481768ECCDF8B2EF891EA115</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>7d85b6df-73a0-4577-8954-80ad0120aaf3_1.0.0.0_x86__f4phcnppyrxwp</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>7d85b6df-73a0-4577-8954-80ad0120aaf3_f4phcnppyrxwp!App</RegisteredUserModeAppID>
@@ -27,16 +27,16 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-04-21T04:56:33.095</Modified>
+      <Modified>2021-04-21T05:27:24.335</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\bin\x86\Debug\Final_Grad_OOP_Project.exe">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\bin\x86\Debug\Final_Grad_OOP_Project.exe">
       <PackagePath>entrypoint\Final_Grad_OOP_Project.exe</PackagePath>
-      <Modified>2021-04-21T04:56:32.542</Modified>
+      <Modified>2021-04-21T05:27:23.954</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.10\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -46,151 +46,151 @@
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
       <Modified>2019-03-18T23:36:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Archer\Archer.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Archer\Archer.png">
       <PackagePath>Assets\BDO Class Logos\Archer\Archer.png</PackagePath>
       <Modified>2021-04-21T04:56:22.778</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Berserker\Berserker.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Berserker\Berserker.png">
       <PackagePath>Assets\BDO Class Logos\Berserker\Berserker.png</PackagePath>
       <Modified>2021-04-21T04:56:22.822</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\DarkKnight\DarkKnight.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\DarkKnight\DarkKnight.png">
       <PackagePath>Assets\BDO Class Logos\DarkKnight\DarkKnight.png</PackagePath>
       <Modified>2021-04-21T04:56:22.873</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Guardian\Guardian.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Guardian\Guardian.png">
       <PackagePath>Assets\BDO Class Logos\Guardian\Guardian.png</PackagePath>
       <Modified>2021-04-21T04:56:22.908</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Hashashin\Hashashin.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Hashashin\Hashashin.png">
       <PackagePath>Assets\BDO Class Logos\Hashashin\Hashashin.png</PackagePath>
       <Modified>2021-04-21T04:56:22.955</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Kunoichi\Kunoichi.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Kunoichi\Kunoichi.png">
       <PackagePath>Assets\BDO Class Logos\Kunoichi\Kunoichi.png</PackagePath>
       <Modified>2021-04-21T04:56:22.999</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Lahn\Lahn.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Lahn\Lahn.png">
       <PackagePath>Assets\BDO Class Logos\Lahn\Lahn.png</PackagePath>
       <Modified>2021-04-21T04:56:23.060</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Maehwa\Maehwa.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Maehwa\Maehwa.png">
       <PackagePath>Assets\BDO Class Logos\Maehwa\Maehwa.png</PackagePath>
       <Modified>2021-04-21T04:56:23.102</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Musa\Musa.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Musa\Musa.png">
       <PackagePath>Assets\BDO Class Logos\Musa\Musa.png</PackagePath>
       <Modified>2021-04-21T04:56:23.143</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Mystic\Mystic.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Mystic\Mystic.png">
       <PackagePath>Assets\BDO Class Logos\Mystic\Mystic.png</PackagePath>
       <Modified>2021-04-21T04:56:23.245</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Ninja\Ninja.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Ninja\Ninja.png">
       <PackagePath>Assets\BDO Class Logos\Ninja\Ninja.png</PackagePath>
       <Modified>2021-04-21T04:56:23.289</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Nova\Nova.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Nova\Nova.png">
       <PackagePath>Assets\BDO Class Logos\Nova\Nova.png</PackagePath>
       <Modified>2021-04-21T04:56:23.337</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Ranger\Ranger.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Ranger\Ranger.png">
       <PackagePath>Assets\BDO Class Logos\Ranger\Ranger.png</PackagePath>
       <Modified>2021-04-21T04:56:23.374</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Shai\Shai.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Shai\Shai.png">
       <PackagePath>Assets\BDO Class Logos\Shai\Shai.png</PackagePath>
       <Modified>2021-04-21T04:56:23.415</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Sorceress\Sorceress.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Sorceress\Sorceress.png">
       <PackagePath>Assets\BDO Class Logos\Sorceress\Sorceress.png</PackagePath>
       <Modified>2021-04-21T04:56:23.456</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Striker\Striker.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Striker\Striker.png">
       <PackagePath>Assets\BDO Class Logos\Striker\Striker.png</PackagePath>
       <Modified>2021-04-21T04:56:23.488</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Tamer\Tamer.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Tamer\Tamer.png">
       <PackagePath>Assets\BDO Class Logos\Tamer\Tamer.png</PackagePath>
       <Modified>2021-04-21T04:56:23.522</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Valkyrie\Valkyrie.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Valkyrie\Valkyrie.png">
       <PackagePath>Assets\BDO Class Logos\Valkyrie\Valkyrie.png</PackagePath>
       <Modified>2021-04-21T04:56:23.557</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Warrior\Warrior.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Warrior\Warrior.png">
       <PackagePath>Assets\BDO Class Logos\Warrior\Warrior.png</PackagePath>
       <Modified>2021-04-21T04:56:23.595</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Witch\Witch.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Witch\Witch.png">
       <PackagePath>Assets\BDO Class Logos\Witch\Witch.png</PackagePath>
       <Modified>2021-04-21T04:56:23.829</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Wizard\Wizard.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Wizard\Wizard.png">
       <PackagePath>Assets\BDO Class Logos\Wizard\Wizard.png</PackagePath>
       <Modified>2021-04-21T04:56:23.866</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2021-02-09T03:45:44.940</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-02-09T03:45:44.942</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-02-09T03:45:44.943</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-02-09T03:45:44.943</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-02-09T03:45:44.944</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-02-09T03:45:44.944</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-02-09T03:45:44.945</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2021-04-21T04:52:47.255</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\bin\x86\Debug\Final_Grad_OOP_Project.xr.xml">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\bin\x86\Debug\Final_Grad_OOP_Project.xr.xml">
       <PackagePath>Final_Grad_OOP_Project.xr.xml</PackagePath>
       <Modified>2021-04-21T04:55:51.551</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2021-04-21T04:55:51.589</Modified>
+      <Modified>2021-04-21T05:27:23.888</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2021-04-21T04:56:32.457</Modified>
+      <Modified>2021-04-21T05:27:23.888</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2019-03-18T22:33:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <Modified>2021-04-21T04:56:32.720</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Final_Grad_OOP_Project\Final_Grad_OOP_Project\bin\x86\Debug\Core\Final_Grad_OOP_Project.exe">
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\bin\x86\Debug\Core\Final_Grad_OOP_Project.exe">
       <PackagePath>Final_Grad_OOP_Project.exe</PackagePath>
-      <Modified>2021-04-21T04:56:33.083</Modified>
+      <Modified>2021-04-21T05:27:24.331</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

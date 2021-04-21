@@ -16,22 +16,22 @@
 
         <RelativePanel>
             <!-- Menu Button -->
-            <Button x:ConnectionId='23' Name="HamburgerBtn" 
+            <Button x:ConnectionId='23' Name="HomeBtn" 
                     RelativePanel.AlignLeftWithPanel="True"
-                                              
+                                         
                     FontFamily="Segoe MDL2 Assets"
                     Height="32"
                     Width="43"
-                    Content="&#xE700;" />
+                    Content="&#xE80F;" />
 
             <!-- Back Button -->
-            <Button x:ConnectionId='24' Name="HomeBtn" 
+            <Button x:ConnectionId='24' Name="BackBtn" 
                     RelativePanel.LeftOf="SearchAutoSuggestBox"
                     FontFamily="Segoe MDL2 Assets"
                                          
                     Height="32"
                     Width="40"
-                    Content="&#xE80F;" >
+                    Content="&#xE72B;" >
                 <Button.Background>
                     <ImageBrush/>
                 </Button.Background>
