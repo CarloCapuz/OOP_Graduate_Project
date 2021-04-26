@@ -155,10 +155,10 @@
             </Button.Background>
         </Button>
 
-
-
-        <!-- Stuff on the left -->
+        <!-- Base page WebView -->
         <WebView x:ConnectionId='23' x:Name="VideoView" Margin="45,0,0,0" Grid.Row="1"/>
+
+        <!-- "Container" for the buttons - May use stack panel instead to make it responsive -->
         <Rectangle Stroke="Black" Margin="0,0,5000,0" Grid.Row="1"/>
 
     </Grid>
