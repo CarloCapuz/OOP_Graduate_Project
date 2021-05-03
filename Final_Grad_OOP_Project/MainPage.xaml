@@ -14,7 +14,7 @@
             <RowDefinition Height="*" />
         </Grid.RowDefinitions>
 
-        <RelativePanel>
+        <RelativePanel Margin="45,0,0,0">
             <!-- Menu Button -->
             <Button Name="HomeBtn" 
                     RelativePanel.AlignLeftWithPanel="True"
@@ -49,112 +49,112 @@
         </RelativePanel>
 
         <!-- BDO CLASSES BUTTONS -->
-        <Button Name="Archer_btn" Height="45" Width="45" VerticalAlignment="Top" Click="Archer_btn_Click" Grid.Row="1">
+        <Button Name="Archer_btn" Height="45" Width="45" VerticalAlignment="Top" Click="Archer_btn_Click" Grid.RowSpan="2" ToolTipService.ToolTip="Archer">
             <Button.Background>
                 <ImageBrush ImageSource="/Assets/BDO Class Logos/Archer/Archer.png" Stretch="Uniform"/>
             </Button.Background>
         </Button>
-        <Button Name="Berserker_btn" Height="45" Width="45" Margin="0,45,0,0" VerticalAlignment="Top" Click="Berserker_btn_Click" Grid.Row="1">
+        <Button Name="Berserker_btn" Height="45" Width="45" Margin="0,13,0,0" VerticalAlignment="Top" Click="Berserker_btn_Click" Grid.Row="1" ToolTipService.ToolTip="Berserker">
             <Button.Background>
                 <ImageBrush ImageSource="/Assets/BDO Class Logos/Berserker/Berserker.png" Stretch="Uniform"/>
             </Button.Background>
         </Button>
-        <Button Name="DK_btn" Height="45" Width="45" Margin="0,90,0,0" VerticalAlignment="Top" Click="DK_btn_Click" Grid.Row="1">
+        <Button Name="DK_btn" Height="45" Width="45" Margin="0,58,0,0" VerticalAlignment="Top" Click="DK_btn_Click" Grid.Row="1" ToolTipService.ToolTip="Dark Knight">
             <Button.Background>
                 <ImageBrush ImageSource="/Assets/BDO Class Logos/DarkKnight/DarkKnight.png" Stretch="Uniform"/>
             </Button.Background>
         </Button>
-        <Button Name="Guardian_btn" Height="45" Width="45" Margin="0,135,0,0" VerticalAlignment="Top" Click="Guardian_btn_Click" Grid.Row="1">
+        <Button Name="Guardian_btn" Height="45" Width="45" Margin="0,103,0,0" VerticalAlignment="Top" Click="Guardian_btn_Click" Grid.Row="1" ToolTipService.ToolTip="Guardian">
             <Button.Background>
                 <ImageBrush ImageSource="/Assets/BDO Class Logos/Guardian/Guardian.png" Stretch="Uniform"/>
             </Button.Background>
         </Button>
-        <Button Name="Hashashin_btn" Height="45" Width="45" Margin="0,180,0,0" VerticalAlignment="Top" Click="Hashashin_btn_Click" Grid.Row="1">
+        <Button Name="Hashashin_btn" Height="45" Width="45" Margin="0,148,0,0" VerticalAlignment="Top" Click="Hashashin_btn_Click" Grid.Row="1" ToolTipService.ToolTip="Hashashin">
             <Button.Background>
                 <ImageBrush ImageSource="/Assets/BDO Class Logos/Hashashin/Hashashin.png" Stretch="Uniform"/>
             </Button.Background>
         </Button>
-        <Button Name="Kunoichi_btn" Height="45" Width="45" Margin="0,225,0,0" VerticalAlignment="Top" Click="Kunoichi_btn_Click" Grid.Row="1">
+        <Button Name="Kunoichi_btn" Height="45" Width="45" Margin="0,193,0,0" VerticalAlignment="Top" Click="Kunoichi_btn_Click" Grid.Row="1" ToolTipService.ToolTip="Kunoichi">
             <Button.Background>
                 <ImageBrush ImageSource="/Assets/BDO Class Logos/Kunoichi/Kunoichi.png" Stretch="Uniform"/>
             </Button.Background>
         </Button>
-        <Button Name="Lahn_btn" Height="45" Width="45" Margin="0,270,0,0" VerticalAlignment="Top" Click="Lahn_btn_Click" Grid.Row="1">
+        <Button Name="Lahn_btn" Height="45" Width="45" Margin="0,238,0,0" VerticalAlignment="Top" Click="Lahn_btn_Click" Grid.Row="1" ToolTipService.ToolTip="Lahn">
             <Button.Background>
                 <ImageBrush ImageSource="/Assets/BDO Class Logos/Lahn/Lahn.png" Stretch="Uniform"/>
             </Button.Background>
         </Button>
-        <Button Name="Maehwa_btn" Height="45" Width="45" Margin="0,315,0,0" VerticalAlignment="Top" Click="Maehwa_btn_Click" Grid.Row="1">
+        <Button Name="Maehwa_btn" Height="45" Width="45" Margin="0,283,0,0" VerticalAlignment="Top" Click="Maehwa_btn_Click" Grid.Row="1" ToolTipService.ToolTip="Maehwa">
             <Button.Background>
                 <ImageBrush ImageSource="/Assets/BDO Class Logos/Maehwa/Maehwa.png" Stretch="Uniform"/>
             </Button.Background>
         </Button>
-        <Button Name="Musa_btn" Height="45" Width="45" Margin="0,360,0,0" VerticalAlignment="Top" Click="Musa_btn_Click" Grid.Row="1">
+        <Button Name="Musa_btn" Height="45" Width="45" Margin="0,328,0,0" VerticalAlignment="Top" Click="Musa_btn_Click" Grid.Row="1" ToolTipService.ToolTip="Musa">
             <Button.Background>
                 <ImageBrush ImageSource="/Assets/BDO Class Logos/Musa/Musa.png" Stretch="Uniform"/>
             </Button.Background>
         </Button>
-        <Button Name="Mystic_btn" Height="45" Width="45" Margin="0,405,0,0" VerticalAlignment="Top" Click="Mystic_btn_Click" Grid.Row="1">
+        <Button Name="Mystic_btn" Height="45" Width="45" Margin="0,373,0,0" VerticalAlignment="Top" Click="Mystic_btn_Click" Grid.Row="1" ToolTipService.ToolTip="Mystic">
             <Button.Background>
                 <ImageBrush ImageSource="/Assets/BDO Class Logos/Mystic/Mystic.png" Stretch="Uniform"/>
             </Button.Background>
         </Button>
-        <Button Name="Ninja_btn" Height="45" Width="45" Margin="0,450,0,0" VerticalAlignment="Top" Click="Ninja_btn_Click" Grid.Row="1">
+        <Button Name="Ninja_btn" Height="45" Width="45" Margin="0,418,0,0" VerticalAlignment="Top" Click="Ninja_btn_Click" Grid.Row="1" ToolTipService.ToolTip="Ninja">
             <Button.Background>
                 <ImageBrush ImageSource="/Assets/BDO Class Logos/Ninja/Ninja.png" Stretch="Uniform"/>
             </Button.Background>
         </Button>
-        <Button Name="Nova_btn" Height="45" Width="45" Margin="0,495,0,0" VerticalAlignment="Top" Click="Nova_btn_Click" Grid.Row="1">
+        <Button Name="Nova_btn" Height="45" Width="45" Margin="0,463,0,0" VerticalAlignment="Top" Click="Nova_btn_Click" Grid.Row="1" ToolTipService.ToolTip="Nova">
             <Button.Background>
                 <ImageBrush ImageSource="/Assets/BDO Class Logos/Nova/Nova.png" Stretch="Uniform"/>
             </Button.Background>
         </Button>
-        <Button Name="Ranger_btn" Height="45" Width="45" Margin="0,540,0,0" VerticalAlignment="Top" Click="Ranger_btn_Click" Grid.Row="1">
+        <Button Name="Ranger_btn" Height="45" Width="45" Margin="0,508,0,0" VerticalAlignment="Top" Click="Ranger_btn_Click" Grid.Row="1" ToolTipService.ToolTip="Ranger">
             <Button.Background>
                 <ImageBrush ImageSource="/Assets/BDO Class Logos/Ranger/Ranger.png" Stretch="Uniform"/>
             </Button.Background>
         </Button>
-        <Button Name="Shai_btn" Height="45" Width="45" Margin="0,585,0,0" VerticalAlignment="Top" Click="Shai_btn_Click" Grid.Row="1">
+        <Button Name="Shai_btn" Height="45" Width="45" Margin="0,598,0,0" VerticalAlignment="Top" Click="Shai_btn_Click" Grid.Row="1" ToolTipService.ToolTip="Shai">
             <Button.Background>
                 <ImageBrush ImageSource="/Assets/BDO Class Logos/Shai/Shai.png" Stretch="Uniform"/>
             </Button.Background>
         </Button>
-        <Button Name="Sorceress_btn" Height="45" Width="45" Margin="0,630,0,0" VerticalAlignment="Top" Click="Sorceress_btn_Click" Grid.Row="1">
+        <Button Name="Sorceress_btn" Height="45" Width="45" Margin="0,643,0,0" VerticalAlignment="Top" Click="Sorceress_btn_Click" Grid.Row="1" ToolTipService.ToolTip="Sorceress">
             <Button.Background>
                 <ImageBrush ImageSource="/Assets/BDO Class Logos/Sorceress/Sorceress.png" Stretch="Uniform"/>
             </Button.Background>
         </Button>
-        <Button Name="Striker_btn" Height="45" Width="45" Margin="0,675,0,0" VerticalAlignment="Top" Click="Striker_btn_Click" Grid.Row="1">
+        <Button Name="Striker_btn" Height="45" Width="45" Margin="0,688,0,0" VerticalAlignment="Top" Click="Striker_btn_Click" Grid.Row="1" ToolTipService.ToolTip="Striker">
             <Button.Background>
                 <ImageBrush ImageSource="/Assets/BDO Class Logos/Striker/Striker.png" Stretch="Uniform"/>
             </Button.Background>
         </Button>
-        <Button Name="Tamer_btn" Height="45" Width="45" Margin="0,720,0,0" VerticalAlignment="Top" Click="Tamer_btn_Click" Grid.Row="1">
+        <Button Name="Tamer_btn" Height="45" Width="45" Margin="0,733,0,0" VerticalAlignment="Top" Click="Tamer_btn_Click" Grid.Row="1" ToolTipService.ToolTip="Tamer">
             <Button.Background>
                 <ImageBrush ImageSource="/Assets/BDO Class Logos/Tamer/Tamer.png" Stretch="Uniform"/>
             </Button.Background>
         </Button>
-        <Button Name="Valkyrie_btn" Height="45" Width="45" Margin="0,765,0,0" VerticalAlignment="Top" Click="Valkyrie_btn_Click" Grid.Row="1">
+        <Button Name="Valkyrie_btn" Height="45" Width="45" Margin="0,778,0,0" VerticalAlignment="Top" Click="Valkyrie_btn_Click" Grid.Row="1" ToolTipService.ToolTip="Valkyrie">
             <Button.Background>
                 <ImageBrush ImageSource="/Assets/BDO Class Logos/Valkyrie/Valkyrie.png" Stretch="Uniform"/>
             </Button.Background>
         </Button>
-        <Button Name="Warrior_btn" Height="45" Width="45" Margin="0,810,0,0" VerticalAlignment="Top" Click="Warrior_btn_Click" Grid.Row="1">
+        <Button Name="Warrior_btn" Height="45" Width="45" Margin="0,823,0,0" VerticalAlignment="Top" Click="Warrior_btn_Click" Grid.Row="1" ToolTipService.ToolTip="Warrior">
             <Button.Background>
                 <ImageBrush ImageSource="/Assets/BDO Class Logos/Warrior/Warrior.png" Stretch="Uniform"/>
             </Button.Background>
         </Button>
-        <Button Name="Witch_btn" Height="45" Width="45" Margin="0,855,0,0" VerticalAlignment="Top" Click="Witch_btn_Click" Grid.Row="1">
+        <Button Name="Witch_btn" Height="45" Width="45" Margin="0,868,0,0" VerticalAlignment="Top" Click="Witch_btn_Click" Grid.Row="1" ToolTipService.ToolTip="Witch">
             <Button.Background>
                 <ImageBrush ImageSource="/Assets/BDO Class Logos/Witch/Witch.png" Stretch="Uniform"/>
             </Button.Background>
         </Button>
-        <Button Name="Wizard_btn" Height="45" Width="45" Margin="0,887,0,0" VerticalAlignment="Top" Click="Wizard_btn_Click" Grid.Row="1">
+        <Button Name="Wizard_btn" Height="45" Width="45" Margin="0,913,0,0" VerticalAlignment="Top" Click="Wizard_btn_Click" Grid.Row="1" ToolTipService.ToolTip="Wizard">
             <Button.Background>
                 <ImageBrush ImageSource="/Assets/BDO Class Logos/Wizard/Wizard.png" Stretch="Uniform"/>
             </Button.Background>
         </Button>
-        <Button Name="Sage_btn" Height="45" Width="45" Margin="0,923,0,0" VerticalAlignment="Top" Click="Sage_btn_Click" Grid.Row="1">
+        <Button Name="Sage_btn" Height="45" Width="45" Margin="0,553,0,0" VerticalAlignment="Top" Click="Sage_btn_Click" Grid.Row="1" ToolTipService.ToolTip="Sage">
             <Button.Background>
                 <ImageBrush ImageSource="/Assets/BDO Class Logos/Sage/Sage.png" Stretch="Uniform"/>
             </Button.Background>

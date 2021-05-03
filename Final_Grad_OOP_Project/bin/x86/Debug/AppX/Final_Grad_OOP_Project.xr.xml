@@ -9,6 +9,8 @@
       <RootProperty Name="Background" />
       <RootProperty Name="RowDefinitions" />
       <RootProperty Name="Children" />
+      <RootMethod Name="GetRowSpan" />
+      <RootMethod Name="SetRowSpan" />
       <RootMethod Name="GetRow" />
       <RootMethod Name="SetRow" />
     </RootType>
@@ -17,6 +19,7 @@
       <RootProperty Name="Height" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.RelativePanel">
+      <RootProperty Name="Margin" />
       <RootProperty Name="Children" />
       <RootMethod Name="GetAlignLeftWithPanel" />
       <RootMethod Name="SetAlignLeftWithPanel" />
@@ -35,6 +38,10 @@
       <RootProperty Name="FontFamily" />
       <RootProperty Name="Content" />
       <RootEvent Name="Click" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ToolTipService">
+      <RootMethod Name="GetToolTip" />
+      <RootMethod Name="SetToolTip" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.WebView">
       <RootProperty Name="Margin" />
