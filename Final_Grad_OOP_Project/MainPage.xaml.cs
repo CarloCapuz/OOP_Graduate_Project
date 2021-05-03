@@ -171,5 +171,10 @@ namespace Final_Grad_OOP_Project
             Uri u = new Uri("https://www.naeu.playblackdesert.com/en-US/GameInfo/Class?classType=28");
             VideoView.Navigate(u);
         }
+        private void Sage_btn_Click(object sender, RoutedEventArgs e)
+        {
+            Uri u = new Uri("https://www.naeu.playblackdesert.com/en-US/GameInfo/Class?classType=2");
+            VideoView.Navigate(u);
+        }
     }
 }

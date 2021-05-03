@@ -73,6 +73,9 @@
     <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Ranger\Ranger.png">
       <PackagePath>Assets\BDO Class Logos\Ranger\Ranger.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Sage\Sage.png">
+      <PackagePath>Assets\BDO Class Logos\Sage\Sage.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\cjmca\Desktop\COMP 730-830 %28OOP%29\Final Graduate Project\OOP_Graduate_Project\Final_Grad_OOP_Project\Assets\BDO Class Logos\Shai\Shai.png">
       <PackagePath>Assets\BDO Class Logos\Shai\Shai.png</PackagePath>
     </AppxPackagedFile>

@@ -149,9 +149,14 @@
                 <ImageBrush ImageSource="/Assets/BDO Class Logos/Witch/Witch.png" Stretch="Uniform"/>
             </Button.Background>
         </Button>
-        <Button Name="Wizard_btn" Height="45" Width="45" Margin="0,900,0,0" VerticalAlignment="Top" Click="Wizard_btn_Click" Grid.Row="1">
+        <Button Name="Wizard_btn" Height="45" Width="45" Margin="0,887,0,0" VerticalAlignment="Top" Click="Wizard_btn_Click" Grid.Row="1">
             <Button.Background>
                 <ImageBrush ImageSource="/Assets/BDO Class Logos/Wizard/Wizard.png" Stretch="Uniform"/>
+            </Button.Background>
+        </Button>
+        <Button Name="Sage_btn" Height="45" Width="45" Margin="0,923,0,0" VerticalAlignment="Top" Click="Sage_btn_Click" Grid.Row="1">
+            <Button.Background>
+                <ImageBrush ImageSource="/Assets/BDO Class Logos/Sage/Sage.png" Stretch="Uniform"/>
             </Button.Background>
         </Button>
 
